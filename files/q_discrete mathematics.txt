@@ -1,0 +1,12 @@
+1.What is the number of subsets of the set {a, b, c}?  		A) 4	 B) 6	 C) 8	 D) 10
+2.What is the binomial coefficient C(5, 2)?	A) 5	B) 10	C) 15	D) 20
+3.What is the result of the logical operation NOT for a true statement?	 A) The truth	B) False C) Undefined	D) True or false
+4.How many bits are required to represent 16 different values?	A) 2	B) 4	C) 8	D) 16
+5.What is the principle of induction in discrete mathematics?	A) Selection method	B) Substitution method	C) Induction method	D) Exclusion method
+6.What is the result of the XOR operation for two bits: 1 XOR 0?	A) 0		B) 1		C) True		D) False
+7.What is the minimum number of colors required to correctly color a graph with 6 vertices, so that no two adjacent vertices have the same color? A) 2	 B) 3  C) 4  D) 5
+8.What is the set of all possible outcomes of an experiment?	A) The space of elementary events    B) Random event	C) Probability	D) Random variable
+9.What is the number of permutations of letters in the word "MATHEMATICS"?   A) 11!	B) 11! / 2	C) 11! / 2!	D) 11! / (2! * 2!)
+10.What is the general formula for the sum of an arithmetic progression?  A) S_n = n * (a_1 + a_n)   B) S_n = n/2 * (a_1 + a_n)	C) S_n = n * a_1 + a_n	 D) S_n = (a_1 + a_n) / 2
+11.What is an Euler graph?	A) A graph without cycles,	B) A graph with cycles,	   C) A connected graph passing through each edge exactly once,	    D) A directed graph
+12.What is the formula for calculating the number of subsets of a set of power n?	A) n!	B) 2^n	C) n^2	D) n^n
